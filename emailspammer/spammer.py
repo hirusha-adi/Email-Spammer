@@ -1,9 +1,8 @@
-import os
 import smtplib
 from email.message import EmailMessage
 
 
-def send_email(email_address, email_password, to_email_address, subject, *body):
+def send_email(email_address, email_password, to_email_address, subject, body):
     try:
         final_send_message = ""
         for sentence_ig in body:

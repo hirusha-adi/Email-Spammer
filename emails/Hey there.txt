@@ -1,0 +1,2 @@
+Note that the file name will be the email subject and the content inside the file will be the body of the email. 
+The email to be sent will be randomly from this folder (emails)
