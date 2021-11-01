@@ -60,8 +60,4 @@ def ENTIRE_PROGRAM():
                           body=str(email_body_content)
                           )
 
-if __name__ == "__main__":
-    ENTIRE_PROGRAM()
-
-
-
+ENTIRE_PROGRAM()
